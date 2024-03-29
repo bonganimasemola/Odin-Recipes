@@ -1,0 +1,36 @@
+.image-container {
+    text-align: center;
+}
+
+body {
+    background-color: #DEE2E6;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+.recipe-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left; 
+}
+
+.recipe-content {
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+.recipe-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+ul li {
+    margin-bottom: 10px; 
+}
